@@ -3,5 +3,5 @@ print("hello wordl")
 name = "BANK"
 print(name)
 
-myschool = "Bank Academy"
+myschool = "Bank Academy01"
 print(myschool)
